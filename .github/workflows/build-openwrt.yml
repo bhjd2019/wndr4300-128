@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: OpenWrt-wndr4300-test1.0
+name: OpenWrt-wndr4300-128M
 
 on:
   repository_dispatch:
